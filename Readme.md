@@ -3,7 +3,7 @@ The URL Checker is a simple Spring Boot application that allows users to check w
 
 ## Code
 
-//package demo.isthesiteup.controllers;
+/* package demo.isthesiteup.controllers;
 
 import java.io.IOException;
 import java.net.HttpURLConnection;
@@ -45,7 +45,7 @@ public class URLCheckerController {
         return returnMessage; // Return the determined message
     }
 }
-'''
+*/
 
 ## Explanation
 Package Declaration: The code is declared within the package demo.isthesiteup.controllers. Packages are used for organizing related classes. In this case, it's likely part of a larger Spring Boot application.
